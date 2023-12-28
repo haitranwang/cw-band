@@ -1,0 +1,1 @@
+adede505ad43c9e1572c6e9a37157c1e6016204790aeafc04b3a79923c085f0e  target/wasm32-unknown-unknown/release/price_feed.wasm
